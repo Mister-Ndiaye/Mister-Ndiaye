@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ucad-coins**
 
-- 🌱 I’m currently learning **Spring Boot Jhipster**
+- 🌱 I’m currently learning **Devops and microservices **
 
 - 👯 I’m looking to collaborate on **ucad-coins**
 
