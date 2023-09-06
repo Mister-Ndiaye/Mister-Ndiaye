@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ucad-coins**
 
-- 🤝 I’m looking for help with **jhipster**
+-I  🤝 python , datastructure , java, docker
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mister-Ndiaye?tab=projects](https://github.com/Mister-Ndiaye?tab=projects)
 
